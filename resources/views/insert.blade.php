@@ -33,7 +33,7 @@
                 <div class="input-group-prepend">
                     <span class="input-group-text" id="basic-addon1">Due Date</span>
                 </div>
-                <input type="date"  name="due" class="form-control" > 
+                <!-- <input type="date"  name="due" class="form-control" >  -->
             </div>
             <button class="btn btn-primary" name="add" type="submit">Add Schedule</button>
             <a href="{{route('home')}}" type="button" class="btn btn-danger">Cancel</a>
